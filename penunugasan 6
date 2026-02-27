@@ -1,0 +1,9 @@
+import turtle 
+t = turtle . turtle
+t seed (5) 
+t.circle (100) 
+t .penup () 
+t.goto (- 80 , 0) 
+t ,write ("SMK PRESTASI PRIMA",)
+font "ARIAL ,14 , "bold"))
+turtle. done ()

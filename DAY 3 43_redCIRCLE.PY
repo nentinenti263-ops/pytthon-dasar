@@ -1,0 +1,10 @@
+IMPORT TURTLE 
+screen = turtle. screen ()
+screen = bgcolor ("white")
+pen = turtle .Turtle ()
+pen . speed (0) 
+pen .fillcolor ("red") 
+pen. begin_ fill()
+pen.circle (100)
+PEN.END _ FIll()
+TURTLE.DONE ()
